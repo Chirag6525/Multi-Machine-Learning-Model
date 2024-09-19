@@ -24,11 +24,11 @@ The dataset consists of 414 entries and 7 columns, with no missing values. Hereâ
 - R-squared
 
 ## Result
-	**Model**       **MAE**	        **R2 Score**
-LinearRegression	9.748246	      0.529615
-Decision Tree	    11.760342	      0.204962
-Random Forest	    9.887601	      0.509547
-Gradient Boosting	10.000117	      0.476071
+	Model			MAE	        R2 Score
+	LinearRegression	9.748246	0.529615
+	Decision Tree	        11.760342	0.204962
+	Random Forest	        9.887601	0.509547
+	Gradient Boosting	10.000117	0.476071
 
 ## Conclusion
 - Linear Regression has the lowest MAE (9.75) and the highest RÂ² (0.53), making it the best-performing model among those evaluated. It suggests that, despite its simplicity, Linear Regression is quite effective for this dataset.
